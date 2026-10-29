@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="300" height="74" viewBox="0 0 300 74" fill="none"><defs>
+<linearGradient id="brandb2" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="640" y2="0" spreadMethod="repeat">
+  <stop offset="0" stop-color="#473dff"/><stop offset="0.35" stop-color="#6a92ff"/>
+  <stop offset="0.6" stop-color="#46fff4"/><stop offset="1" stop-color="#473dff"/>
+  <animateTransform attributeName="gradientTransform" type="translate" from="0 0" to="640 0" dur="7s" repeatCount="indefinite"/>
+</linearGradient>
+<linearGradient id="edgeb2" x1="0" y1="0" x2="1" y2="1">
+  <stop offset="0" stop-color="#473dff" stop-opacity="0.9"/><stop offset="0.5" stop-color="#6a92ff" stop-opacity="0.25"/>
+  <stop offset="1" stop-color="#46fff4" stop-opacity="0.8"/>
+</linearGradient>
+<filter id="blurb2" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="55"/></filter>
+<filter id="glowb2" x="-50%" y="-50%" width="200%" height="200%">
+  <feGaussianBlur stdDeviation="3.2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+</filter>
+<pattern id="dotsb2" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#ffffff" fill-opacity="0.07"/></pattern>
+<pattern id="scanb2" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="1" fill="#ffffff" fill-opacity="0.025"/></pattern>
+</defs><rect x="1" y="1" width="298" height="72" rx="20" fill="#0d0d26" stroke="url(#edgeb2)" stroke-width="1.5"/><rect x="1" y="1" width="298" height="72" rx="20" stroke="#46fff4" stroke-width="2" pathLength="1" stroke-dasharray="0.15 0.85" filter="url(#glowb2)"><animate attributeName="stroke-dashoffset" from="1" to="0" dur="4s" repeatCount="indefinite"/></rect><text x="28" y="34" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'SF Pro Display', Inter, Helvetica, Arial, sans-serif" font-size="19" font-weight="800" fill="#ffffff">Get a quote</text><text x="28" y="56" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12.5" fill="#9aa0c8">start your project</text><text x="260" y="45" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'SF Pro Display', Inter, Helvetica, Arial, sans-serif" font-size="22" font-weight="800" fill="#ffffff">↗</text></svg>

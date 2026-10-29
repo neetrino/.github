@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1280" height="96" viewBox="0 0 1280 96" fill="none"><defs>
+<linearGradient id="brands3" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="640" y2="0" spreadMethod="repeat">
+  <stop offset="0" stop-color="#473dff"/><stop offset="0.35" stop-color="#6a92ff"/>
+  <stop offset="0.6" stop-color="#46fff4"/><stop offset="1" stop-color="#473dff"/>
+  <animateTransform attributeName="gradientTransform" type="translate" from="0 0" to="640 0" dur="7s" repeatCount="indefinite"/>
+</linearGradient>
+<linearGradient id="edges3" x1="0" y1="0" x2="1" y2="1">
+  <stop offset="0" stop-color="#473dff" stop-opacity="0.9"/><stop offset="0.5" stop-color="#6a92ff" stop-opacity="0.25"/>
+  <stop offset="1" stop-color="#46fff4" stop-opacity="0.8"/>
+</linearGradient>
+<filter id="blurs3" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="55"/></filter>
+<filter id="glows3" x="-50%" y="-50%" width="200%" height="200%">
+  <feGaussianBlur stdDeviation="3.2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+</filter>
+<pattern id="dotss3" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#ffffff" fill-opacity="0.07"/></pattern>
+<pattern id="scans3" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="1" fill="#ffffff" fill-opacity="0.025"/></pattern>
+</defs><text x="8" y="60" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="15" letter-spacing="3" fill="#46fff4">03</text><text x="70" y="62" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'SF Pro Display', Inter, Helvetica, Arial, sans-serif" font-size="34" font-weight="800" letter-spacing="2" fill="url(#brands3)">HOW WE SHIP</text><text x="72" y="86" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'SF Pro Display', Inter, Helvetica, Arial, sans-serif" font-size="15" fill="#9aa0c8">Every change reviewed, tested and deployed automatically</text><line x1="70" y1="20" x2="1272" y2="20" stroke="url(#edges3)" stroke-width="1"/><circle cy="20" r="3" fill="#46fff4" filter="url(#glows3)"><animate attributeName="cx" values="70;1272;70" dur="10s" repeatCount="indefinite"/></circle></svg>
