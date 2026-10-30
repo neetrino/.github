@@ -11,12 +11,12 @@
 <br/><br/>
 
 <img src="assets/s-services.svg" width="100%" alt="What we build"/>
-<img src="assets/services.svg" width="100%" alt="Websites · Mobile apps · SaaS platforms · CRM systems · AI integrations"/>
+<img src="assets/services.svg" width="100%" alt="Websites · Mobile apps · SaaS platforms · CRM systems · AI platforms"/>
 
 <br/><br/>
 
 <img src="assets/s-stack.svg" width="100%" alt="Our stack"/>
-<img src="assets/stack.svg" width="100%" alt="Next.js · React · TypeScript · Node.js · NestJS · Prisma · PostgreSQL · Tailwind · Vercel · Cloudflare · Docker · Coolify · GitHub Actions · AI APIs"/>
+<img src="assets/stack.svg" width="100%" alt="Next.js · React · TypeScript · Python · Node.js · NestJS · Java · C# · Prisma · PostgreSQL · Tailwind · Vercel · Cloudflare · Docker · Coolify · GitHub Actions · AI APIs"/>
 
 <br/><br/>
 
